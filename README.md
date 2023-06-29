@@ -12,3 +12,4 @@
  - Paging implemented: 10 recipes are displayed per page. 
 
 ## Here's how the app looks
+![Project_ScreenCapture](https://github.com/vaidanshbhardwaj/Forkify-Course-Project/assets/94763871/08f3c2d2-4730-42c2-ab89-7989325c3093)
